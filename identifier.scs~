@@ -1,0 +1,6 @@
+number_of_deleted_nodes =>
+ nrel_main_identifier :
+ [количество удаляемых вершин] 
+(*<- lang_ru;;*);
+ [number_of_deleted_nodes]
+(*<-lang_en;;*);; 

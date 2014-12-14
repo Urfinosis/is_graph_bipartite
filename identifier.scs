@@ -1,0 +1,6 @@
+number_of_deleted_nodes =>
+ nrel_main_identifier :
+ [количество вершин, которые требуется удалить для превращения графа в дерево] 
+(*<- lang_ru;;*);
+ [number of nodes you shoud delete to transform your grapf in tree]
+(*<-lang_en;;*);; 

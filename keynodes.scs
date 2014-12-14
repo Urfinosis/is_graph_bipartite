@@ -1,0 +1,11 @@
+undirected_graph
+=> nrel_main_idtf: [неориентированный граф] (* <- lang_ru;; *);
+=> nrel_main_idtf: [undirected graph] (* 	<- lang_en;; *);;
+
+rrel_vertex 
+=> nrel_main_idtf: [вершина'] (* <- lang_ru;; *);
+=> nrel_main_idtf: [vertex'] (* <- lang_en;; *);;
+
+rrel_edge 
+=> nrel_main_idtf: [ребро'] (*  <- lang_ru;; *);
+=> nrel_main_idtf: [edge'] (* <- lang_en;;	*);;
